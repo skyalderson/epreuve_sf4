@@ -1,0 +1,2 @@
+Le jeu contient plusieurs cartes sur lesquelles peuvent être positionnés un ou plusieurs joueurs à des coordonnées précises définies par les propriétés positionX et positionY
+Un jouer ne peut être positionné que sur une seule carte au même instant, à un seul couple de coordonnées positionX et positionY
